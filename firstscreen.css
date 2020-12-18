@@ -1,0 +1,19 @@
+a{
+	text-decoration: none;
+}
+span{
+	text-color: pink;
+}
+*{
+	background-image: url(Harry0.jpg);
+	text-align: center;
+}
+h3{
+	font-size: 40px;
+	font-weight: 800;
+}
+body{
+	color:white;
+	font-size: 30px;
+	font-weight: 700;
+}
